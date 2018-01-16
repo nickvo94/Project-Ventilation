@@ -1,8 +1,7 @@
 # Project-Ventilation
 EmbededSystem-LPCExpresso-C++
 
-![Ventilation in action](https://i9.ytimg.com/vi/TN6gz4iunsE/default.jpg?v=59f8c572&sqp=CLSX488F&rs=AOn4CLBb2_hrZVtKH8MhXLeZb_Hwabt0-w)
-(https://www.youtube.com/watch?v=TN6gz4iunsE)
+![Ventilation in action](https://www.youtube.com/watch?v=TN6gz4iunsE)
 
 ## VENTILATION PROJECT
 
